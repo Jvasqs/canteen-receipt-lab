@@ -25,3 +25,4 @@ qty = input()
 student_id = input()
 
 # TODO: write your code below
+clean_first = first_name.strip().title()
